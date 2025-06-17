@@ -1,0 +1,13 @@
+*{
+    font-size:28px;
+}
+div{
+    height:300px;
+    width:300px;
+    background-image: url("in7.jpg");
+    background-size: cover;
+    position: fixed;
+    right:20px;
+    font-weight: 300;
+    color:gray;
+}
