@@ -4,9 +4,10 @@
 #navbar{
     background-color: #0f1111;
     height:60px;
+    
 }
 #logo{
-    font-size:35px;
+    font-size:25px;
     text-decoration: none;
     color:#f08804;
     margin-left:0px;
@@ -14,14 +15,28 @@
 .nav{
     color:white;
     text-decoration: none;
-    margin-left:248px;
-    font-size: 20px;
+    margin-left:200px;
+   
 }
 
 button{
     background-color: #f08804;
     padding:2px;
     color:white;
-    font-size: 20px;
+   
 }
 #txt{color:#0f1111}
+.containerbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display:inline-block;
+}
+footer{
+    background-color: #0f1111;
+    color:white;
+    text-align:center;
+}
+#container{
+    height:665px;
+}
