@@ -1,0 +1,17 @@
+*{
+    margin: 0;padding: 0;
+}
+.navbar{
+    background-color:dimgrey;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+li{
+    display: inline;
+}
