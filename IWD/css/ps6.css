@@ -15,3 +15,18 @@ a{
 li{
     display: inline;
 }
+#outer{
+    height: 300px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    align-items: center;
+  
+}
+#inner{
+    height: 100px;
+    width:100px;
+    background-color: white;
+    
+}
